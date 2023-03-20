@@ -1,6 +1,6 @@
 # Advanced spikeball rules 2023
 
-### 1. Eqipment and Court
+### 1. Equipment and Court
 * 1.1 - The tension on the net should be consistent throughout. A ball dropped from a height of 150 cm should bounce 50cm from the net, measuring from the bottom of the ball.
 * 1.2 - When possible, a serving line circle should be drawn around the set. The distance from the edge of the set to the service line should be 213cm.
 
