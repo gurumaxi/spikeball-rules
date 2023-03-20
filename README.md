@@ -12,6 +12,7 @@
   * 2.4.1 - Left or right side of the net is determined relative to a center line parallel to the ball’s horizontal entry angle.
   * 2.4.2 - A ball hitting within the left third of the net (side pocket area) and moving right or a ball hitting within the right third of the net and moving left is is legal.
   * 2.4.3 - A ball hitting within the side pocket area and not moving the opposite direction is legal.
+  * 2.4.4 - Every part of a ball which is hitting the back pocket (back third) of the net must land beyond the farthest point of the set relative to the ball’s horizontal angle of entry.
 
 ### 3. Playing the ball
 * 3.1 - If teammates touch the ball simultaneously it is counted as two hits. Either teammate may take the next hit provided they have not already used all three hits.
