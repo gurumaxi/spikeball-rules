@@ -30,5 +30,5 @@
 * 4.3 - A hinder occurs if the opponent fails to fulfill any of the requirements of 4.2.1 or 4.2.2, even if the opponent makes every effort to fulfill those requirements. If the opponent made every effort to avoid the interference, the round will be replayed. Otherwise, the hindered team is awarded a point.
 
 ### 5. Making Calls and Settling Disagreements
-* Infractions and hinders must be called immediately after occurrence.
-* If teams cannot determine the legality of a hit, serve, or call (when observers are not present), they must replay the point. Teammates do not have to agree with each other for that team to issue a disagreement. If three players think one thing, and the fourth player still disagrees after discussion, this merits replaying the point.
+* 5.1 - Infractions and hinders must be called immediately after occurrence.
+* 5.2 - If teams cannot determine the legality of a hit, serve, or call (when observers are not present), they must replay the point. Teammates do not have to agree with each other for that team to issue a disagreement. If three players think one thing, and the fourth player still disagrees after discussion, this merits replaying the point.
